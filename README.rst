@@ -6,7 +6,7 @@
 .. |BOARD_NAME| replace:: STM32F746G discovery
 .. |BOARD_REVISION| replace:: A01
 .. |PLATFORM_NAME| replace:: STM32F746G Platform
-.. |PLATFORM_VER| replace:: 0.1.0
+.. |PLATFORM_VER| replace:: 0.1.1
 .. |RCP| replace:: MICROEJ SDK
 .. |PLATFORM| replace:: MicroEJ Platform
 .. |PLATFORMS| replace:: MicroEJ Platforms
@@ -84,7 +84,7 @@ Here is a list of |BOARD_NAME| useful documentation links:
 Platform Specifications
 =======================
 
-The Architecture version is ``7.15.1``.
+The Architecture version is ``7.14.0``.
 
 This Platform provides the following Foundation Libraries:
 
@@ -98,6 +98,10 @@ This Platform provides the following Foundation Libraries:
    * - EDC
      - 1.3
    * - NLS
+     - 2.0
+   * - SNI
+     - 1.4
+   * - SP
      - 2.0
    * - TRACE
      - 1.1

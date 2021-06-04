@@ -6,8 +6,8 @@
 	This library is provided in source code for use, modification and test, subject to license terms.
 	Any modification of the source code will break MicroEJ Corp. warranties on the whole library.
 -->
-<platform hardwarePartNumber="stm32f746g" name="Platform" version="0.1.0" provider="microej" vendorUrl="" workbenchMinVersion="5.3.1">
-    <environment architecture="CM7" baseline="14" hardwarePartNumber="CM7" toolchain="CM7hardfp_GCC48" name="flopi7G26" techVersion="1.6" version="7.14.0" level="eval" provider="MicroEJ" licenseTag="IS2T_J8F5C"/>
+<platform hardwarePartNumber="stm32f746g" name="Platform" version="0.1.1" provider="microej" vendorUrl="" workbenchMinVersion="5.3.1">
+    <environment architecture="CM7" baseline="14" hardwarePartNumber="CM7" toolchain="CM7hardfp_GCC48" name="flopi7G26" techVersion="1.6" version="7.14.0" level="dev" provider="MicroEJ" licenseTag="IS2T_J8F5C"/>
     <group name="frontPanel"/>
     <group name="extensible"/>
 </platform>

@@ -7,7 +7,7 @@
 .. |BOARD_NAME| replace:: STM32F746G discovery board
 .. |BOARD_REVISION| replace:: A01
 .. |PLATFORM_NAME| replace:: STM32F746G Platform
-.. |PLATFORM_VER| replace:: 0.1.0
+.. |PLATFORM_VER| replace:: 0.1.1
 .. |RCP| replace:: MICROEJ SDK
 .. |PLATFORM| replace:: MicroEJ Platform
 .. |PLATFORMS| replace:: MicroEJ Platforms
